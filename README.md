@@ -7,35 +7,54 @@ small project for myself. Multi-language Book Tracker + Short Journal
 
 
 
-## Progress
+## 🚧 Progress
 
 ### Backend
-- [x] ERD Design
-- [x] Database Schema
-- [x] Authentication
-- [ ] Book CRUD
-- [ ] Reading Tracker
+
+* [x] ERD Design
+* [x] Database Schema
+* [x] Authentication (Sign-up, JWT)
+* [x] Book CRUD
+* [ ] Reading Tracker (In Progress)
 
 ### Frontend
-- [ ] UI Setup
-- [ ] Main Pages
-- [ ] Book Pages
 
-### Future Features
-- [ ] Wishlist
-- [ ] Book Talk
+* [x] Project Setup (React, Router)
+* [ ] Basic UI (Form inputs)
+* [ ] API Integration
+* [ ] Main Pages (My Page, Book Detail)
 
+---
 
+## 🔮 Future Features
+
+* [ ] Wishlist
+* [ ] Book Talk
+
+---
 
 <details>
-<summary>Detailed Tasks</summary>
+<summary>📌 Detailed Tasks</summary>
 
 ### Authentication
-- [x] User Sign-up
-- [ ] User Sign-in
-- [ ] JWT Authentication
 
-### Frontend
+* [x] User Sign-up
+* [x] Password encryption
+* [x] User Sign-in (UI + API 연결)
+* [ ] JWT handling (frontend 적용)
+
+### Reading
+
+* [x] Reading start / update
+* [x] Progress logging
+* [ ] Reading dashboard (UI)
+
+### Thoughts
+
+* [x] Create / Read (Backend)
+* [ ] UI integration
+
+
 
 
 
