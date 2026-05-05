@@ -1,11 +1,26 @@
-# bookshelf
-small project for myself. Multi-language Book Tracker + Short Journal
+## Bookshelf
+A personal project to track reading across multiple languages and keep short reading journals.
+
+### Live Demo
+https://my-bookshelf-hazel.vercel.app
 
 ### Database Design (V1.1)
 
 <img width="2004" height="1576" alt="book-shelf (2)" src="https://github.com/user-attachments/assets/f62f7cd9-94cd-440b-a89b-f3821307de2b" />
 
-
+### Tech Stack
+Frontend
+ * React
+ * TailwindCSS
+ * Vercel
+Backend
+ * Spring Boot
+ * JPA / MyBatis
+ * JWT Authentication
+ * Render
+Database
+ * PostgreSQL
+ * Supabase
 
 ## 🚧 Progress
 
@@ -20,16 +35,19 @@ small project for myself. Multi-language Book Tracker + Short Journal
 ### Frontend
 
 * [x] Project Setup (React, Router)
-* [ ] Basic UI (Form inputs)
-* [ ] API Integration
-* [ ] Main Pages (My Page, Book Detail)
+* [x] Basic UI (Form inputs)
+* [x] API Integration
+* [ ] Main Pages (My Page, Book Detail -In Progress)
 
 ---
 
 ## 🔮 Future Features
 
-* [ ] Wishlist
-* [ ] Book Talk
+* [ ] Wishlist (custom reading order / priority-based queue)
+* [ ] Reading analytics dashboard
+* [ ] Social features (Book talk)
+* [ ] Mobile optimization
+* [ ] AI-based multilingual book recommendations (level-aware per language)
 
 ---
 
@@ -41,7 +59,7 @@ small project for myself. Multi-language Book Tracker + Short Journal
 * [x] User Sign-up
 * [x] Password encryption
 * [x] User Sign-in (UI + API 연결)
-* [ ] JWT handling (frontend 적용)
+* [x] JWT handling (frontend 적용)
 
 ### Reading
 
