@@ -1,43 +1,45 @@
 ## Bookshelf
-A personal project to track reading across multiple languages and keep short reading journals.
+A personal reading tracker designed to capture quotes, thoughts, and progress across multiple languages.
 
-### Live Demo
+## Live Demo
 https://my-bookshelf-hazel.vercel.app
 
-### Database Design (V1.1)
+## Features
+- Manage books and track reading progress
+- Capture quotes and personal thoughts while reading
+- Organize reading by language
+- Visualize reading activity through a dashboard
+
+## Screens
+### Book Detail & Reading Experience
+- Track reading progress per book
+- Add quotes and personal thoughts
+- View your records and public records from others
+<img width="1708" height="994" alt="Screenshot 2026-05-07 at 8 44 25 PM" src="https://github.com/user-attachments/assets/61f7a2af-b006-4ac9-acbe-c1b4a6b92efd" />
+
+### Home Dashboard
+- Overview of reading stats
+- Track current reading books
+- View recent quote activity
+<img width="1706" height="999" alt="Screenshot 2026-05-07 at 8 43 30 PM" src="https://github.com/user-attachments/assets/c77ade7e-c9ff-4666-97a7-27c904d9fbae" />
+
+## Tech Stack
+### Frontend (Vercel)
+- React
+- TailwindCSS
+
+### Backend (Render)
+- Spring Boot
+- JPA / MyBatis
+- JWT Authentication
+
+### Database (Supabase)
+- PostgreSQL
+
+## Database Design (V1.1)
 
 <img width="2004" height="1576" alt="book-shelf (2)" src="https://github.com/user-attachments/assets/f62f7cd9-94cd-440b-a89b-f3821307de2b" />
 
-### Tech Stack
-Frontend
- * React
- * TailwindCSS
- * Vercel
-Backend
- * Spring Boot
- * JPA / MyBatis
- * JWT Authentication
- * Render
-Database
- * PostgreSQL
- * Supabase
-
-## 🚧 Progress
-
-### Backend
-
-* [x] ERD Design
-* [x] Database Schema
-* [x] Authentication (Sign-up, JWT)
-* [x] Book CRUD
-* [ ] Reading Tracker (In Progress)
-
-### Frontend
-
-* [x] Project Setup (React, Router)
-* [x] Basic UI (Form inputs)
-* [x] API Integration
-* [ ] Main Pages (My Page, Book Detail -In Progress)
 
 ---
 
@@ -50,9 +52,8 @@ Database
 * [ ] AI-based multilingual book recommendations (level-aware per language)
 
 ---
-
 <details>
-<summary>📌 Detailed Tasks</summary>
+  <summary>📌 Details</summary>
 
 ### Authentication
 
@@ -73,14 +74,9 @@ Database
 * [ ] UI integration
 
 
-
-
-
 ### Database history 
 Initial ERD completed for the first version
 <img width="1584" height="1283" alt="book-shelf (1)" src="https://github.com/user-attachments/assets/a1e45cfa-3a78-4e0b-ada9-29b30d41eb9d" />
-
-
 
 </details>
 
