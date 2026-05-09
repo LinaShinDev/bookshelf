@@ -15,13 +15,14 @@ https://my-bookshelf-hazel.vercel.app
 - Track reading progress per book
 - Add quotes and personal thoughts
 - View your records and public records from others
-<img width="1708" height="994" alt="Screenshot 2026-05-07 at 8 44 25 PM" src="https://github.com/user-attachments/assets/61f7a2af-b006-4ac9-acbe-c1b4a6b92efd" />
+<img width="1710" height="995" alt="Screenshot 2026-05-10 at 1 43 36 AM" src="https://github.com/user-attachments/assets/64ea722a-2326-4925-ac52-ec6b30b7dd8e" />
 
 ### Home Dashboard
 - Overview of reading stats
 - Track current reading books
 - View recent quote activity
-<img width="1706" height="999" alt="Screenshot 2026-05-07 at 8 43 30 PM" src="https://github.com/user-attachments/assets/c77ade7e-c9ff-4666-97a7-27c904d9fbae" />
+<img width="1705" height="998" alt="Screenshot 2026-05-10 at 1 40 02 AM" src="https://github.com/user-attachments/assets/1b72fc9d-058c-49c2-805c-1e004aee781e" />
+
 
 ## Tech Stack
 ### Frontend (Vercel)
@@ -45,7 +46,7 @@ https://my-bookshelf-hazel.vercel.app
 
 ## 🔮 Future Features
 
-* [ ] Wishlist (custom reading order / priority-based queue)
+* [ ] Wishlist (custom reading order / priority-based queue - process)
 * [ ] Reading analytics dashboard
 * [ ] Social features (Book talk)
 * [ ] Mobile optimization
@@ -66,12 +67,12 @@ https://my-bookshelf-hazel.vercel.app
 
 * [x] Reading start / update
 * [x] Progress logging
-* [ ] Reading dashboard (UI)
+* [x] Reading dashboard (UI)
 
 ### Thoughts
 
 * [x] Create / Read (Backend)
-* [ ] UI integration
+* [x] UI integration
 
 
 ### Database history 
